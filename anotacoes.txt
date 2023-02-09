@@ -1,0 +1,12 @@
+1. Utilizar Gulp para compilar
+    npm init --yes
+    npm install --save-dev gulp gulp-sass
+
+2. Instalar o sass
+    npm install --save-dev sass
+
+3. Watch configurado
+    Para rodar: npm run build watch
+
+4. Pasta dist não precisa ser versionada, pois outros desenvolvedores também vão executar 
+o gulp para compilação em suas máquinas.
