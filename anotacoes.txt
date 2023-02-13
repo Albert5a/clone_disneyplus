@@ -10,3 +10,7 @@
 
 4. Pasta dist não precisa ser versionada, pois outros desenvolvedores também vão executar 
 o gulp para compilação em suas máquinas.
+
+5. Instalar plugin para minificar imagens com Gulp 
+    npm install --save-dev gulp-imagemin@7.1.0
+    
