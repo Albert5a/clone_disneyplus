@@ -13,4 +13,7 @@ o gulp para compilação em suas máquinas.
 
 5. Instalar plugin para minificar imagens com Gulp 
     npm install --save-dev gulp-imagemin@7.1.0
+
+6. Instalar Uglify para minificar o javascript (no final do projeto)
+    npm install --save-dev gulp-uglify
     
